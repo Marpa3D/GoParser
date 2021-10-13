@@ -19,5 +19,5 @@ func main() {
 		fmt.Println("Посещаю ресурс:", r.URL)
 	})
 
-	c.Visit("https://forbes.com/")
+	c.Visit("https://site.com/")
 }
